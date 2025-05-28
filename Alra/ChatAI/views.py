@@ -6,7 +6,7 @@ from django.http.response import StreamingHttpResponse
 from django.views.decorators.csrf import csrf_exempt
 
 # Set your API key as environment variable
-os.environ["TOGETHER_API_KEY"] = "05236ba11d5ed04d5d3fad11bd5a786901d21fe3f6012215fc1882dfd5e74c3d"
+os.environ["TOGETHER_API_KEY"] = "YOUR_API_KEY"
 
 def index(request):
     return render(request, 'ChatAI/index.html')
