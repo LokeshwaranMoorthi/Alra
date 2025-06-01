@@ -54,3 +54,12 @@ From a desire to give AI **emotion through motion**.
 
 -> WebSocket upgrade for ultra-stream
 
+---
+# Credits
+
+Mixtral-8x7B — For giving Alra a mind
+
+Together AI — For the wings
+
+You — For believing in AI with soul
+
